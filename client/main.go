@@ -168,7 +168,7 @@ func main() {
 				if err != nil {
 					log.Printf("err")
 				}
-
+				log.Println(rsp)
 				// 解析数据
 				//rsp.Data.PackageList.
 			}
