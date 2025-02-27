@@ -169,9 +169,8 @@ func main() {
 					log.Printf("err")
 				}
 
-
 				// 解析数据
-				rsp.Data.PackageList.
+				//rsp.Data.PackageList.
 			}
 
 		}
